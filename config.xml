@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.micra.minon" version="0.1.1">
-  <name>Mini</name>
+  <name>Dashboard</name>
   <description>Bluetooth moto speedometer.</description>
   <gap:platform name="android" />
   <preference name="orientation" value="landscape"/>
